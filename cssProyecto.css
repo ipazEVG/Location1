@@ -1,0 +1,70 @@
+/* Css de EnviarFormulario */
+/* Estilo para el cuerpo que tiene la clase 'CuerpoForm' */
+.CuerpoForm {
+    background-color: bisque; /* Se asigna un color al contenedor */
+}
+
+/* Estilo para elformulario */
+form {
+    border: 3px solid rgb(243, 239, 239); /* Borde sólido gris claro alrededor del formulario */
+    background-color: rgb(59, 160, 237); /* Color de fondo azul del formulario */
+    width: 365px; /* Ancho fijo del formulario */
+    height: 50px; /* Altura fija del formulario */
+    padding-top: 20px; /* Espacio interno en la parte superior del formulario */
+    padding-left: 10px; /* Espacio interno en el lado izquierdo del formulario */
+}
+/* Css de par.php */
+  /* Estilo para el cuerpo */
+body.Par {
+    background-color: rgb(98, 0, 167); /* Color de fondo morado */
+    color: yellow; /* Color del texto amarillo */
+}
+
+/* Estilo para elementos con clase 'numeropar' */
+.numeropar {
+    border: 2px solid rgb(161, 240, 25); /* Borde verde claro */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho */
+}
+
+/* Estilo para elementos con clase 'cuadradopar' */
+.cuadradopar {
+    border: 2px solid rgb(161, 240, 25); /* Borde  verde claro */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho */
+}
+
+/* Estilo para elementos con clase 'siespar' */
+.siespar {
+    border: 2px solid rgb(161, 240, 25); /* Borde sólido verde claro */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho del elemento */
+}
+
+/* Css de Impar.php */
+/* Estilo para el cuerpo */
+body.impar {
+    background-color: rgba(158, 18, 83, 0.991); /* Color de fondo */
+    color: aliceblue; /* Color de texto */
+}
+
+/* Estilo para numeroimpar */
+.numeroimpar {
+    border: 2px solid rgb(159, 151, 151); /* Borde sólido gris */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho */
+}
+
+/* Estilo para cuadradoimpar */
+.cuadradoimpar {
+    border: 2px solid rgb(159, 151, 151); /* Borde sólido gris */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho  */
+}
+
+/* Estilo siesimpar */
+.siesimpar {
+    border: 2px solid rgb(159, 151, 151); /* Borde sólido gris */
+    padding-left: 20px; /* Espacio interno a la izquierda */
+    width: 300px; /* Ancho */
+}
